@@ -1,0 +1,17 @@
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Business.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Business.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Core.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.DataAccess.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Entities.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Core.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Core.dll.config
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.DataAccess.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.DataAccess.dll.config
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\XmlParser.Entities.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\obj\Debug\XmlParser.Business.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\obj\Debug\XmlParser.Business.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\obj\Debug\XmlParser.Business.csproj.CopyComplete
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\obj\Debug\XmlParser.Business.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Business\obj\Debug\XmlParser.Business.pdb

@@ -1,0 +1,12 @@
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\XmlParser.Entities.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\XmlParser.Entities.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\XmlParser.Core.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\XmlParser.Core.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\XmlParser.Core.dll.config
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\obj\Debug\XmlParser.Entities.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\obj\Debug\XmlParser.Entities.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\obj\Debug\XmlParser.Entities.csproj.CopyComplete
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\obj\Debug\XmlParser.Entities.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Entities\obj\Debug\XmlParser.Entities.pdb

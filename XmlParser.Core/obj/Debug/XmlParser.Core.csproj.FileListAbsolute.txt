@@ -1,0 +1,12 @@
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\XmlParser.Core.dll.config
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\XmlParser.Core.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\XmlParser.Core.pdb
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\obj\Debug\XmlParser.Core.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\obj\Debug\XmlParser.Core.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\obj\Debug\XmlParser.Core.csproj.CopyComplete
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\obj\Debug\XmlParser.Core.dll
+C:\Users\akilli\source\repos\XmlParser\XmlParser.Core\obj\Debug\XmlParser.Core.pdb
